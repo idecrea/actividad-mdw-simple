@@ -1,0 +1,56 @@
+/* Generales */
+body {
+    padding: 2rem;
+    font-family: Arial;
+}
+
+a {
+    color: red;
+}
+
+time {
+    font-style: italic;
+    color: darkgray;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+
+/* Atomos */
+
+.sin-negrita {
+    font-weight: normal;
+}
+
+.mark {
+    background-color: red;
+    color: white;
+}
+
+/* Header */
+
+.header__title {
+    text-transform: uppercase;
+    color: red;
+}
+
+/* Section landing */
+
+.landing__text {
+    font-size: 1.5rem;
+    color: lightgray;
+    line-height: 2rem;
+}
+
+/* Section blog */
+
+.articles {
+    background-color: lightgray;
+}
+
+.articles__title {
+    color: darkgray;
+}
